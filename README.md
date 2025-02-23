@@ -1,6 +1,6 @@
 # Data Center Automation Scripts
 
-This repository contains scripts and automation projects for data center tasks, designed for a Google Data Center Technician role.
+This repository contains scripts and automation projects for data center tasks, designed for a Data Center Technician role.
 
 ## Scripts
 
